@@ -3,4 +3,5 @@ add_library(common
     model.cpp
     tgaimage.h
     tgaimage.cpp
+    geometry.h
 )
