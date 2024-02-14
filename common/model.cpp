@@ -5,6 +5,9 @@
 #include <vector>
 #include "model.h"
 
+/* ***** All code in this file is from the week 3 lab on wireframe rendering.
+*/
+
 Model::Model(const char *filename) : verts_(), faces_() {
     std::ifstream in;
     in.open (filename, std::ifstream::in);

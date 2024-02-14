@@ -5,6 +5,9 @@
 #include <math.h>
 #include "tgaimage.h"
 
+/* ***** All code in this file is from the week 3 lab on wireframe rendering.
+*/
+
 TGAImage::TGAImage() : data(NULL), width(0), height(0), bytespp(0) {
 }
 

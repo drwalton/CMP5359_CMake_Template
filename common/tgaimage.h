@@ -1,5 +1,8 @@
 #pragma once
 
+/* ***** All code in this file is from the week 3 lab on wireframe rendering.
+*/
+
 #include <fstream>
 
 #pragma pack(push,1)
